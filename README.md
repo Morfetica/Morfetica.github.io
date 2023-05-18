@@ -1,2 +1,2 @@
-#morfetica.github.io
-Web site
+morfetica.github.io
+Internet local na rede
